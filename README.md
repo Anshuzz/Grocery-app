@@ -1,5 +1,5 @@
 # Grocery-app
-Here’s a concise and professional GitHub description for your Grocery Store Management System project:
+
 
 ---
 
